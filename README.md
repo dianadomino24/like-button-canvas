@@ -2,7 +2,7 @@
 
 Press the button and start drawing. Press again to disable the canvas.
 
-A study project at Practicum by Yande using its library for the canvas.
+A study project at Practicum by Yandex using its library for the canvas.
 
 ---
 
@@ -24,7 +24,9 @@ https://dianadomino24.github.io/like-button-canvas/
 
 -   semantic **HTML5**
 
--   styles - **CSS3** including Flexbox.
+-   styles - **CSS3** including Flexbox
+
+-   Yandex library
 
 ---
 
