@@ -12,7 +12,9 @@ A study project at Practicum by Yande using its library for the canvas.
 
 ---
 
-## :link: Links to test
+## :link: Link to test
+
+https://dianadomino24.github.io/like-button-canvas/
 
 ---
 
